@@ -1,0 +1,12 @@
+html, body {
+	font-family: "儷黑 Pro", "LiHei Pro", \5FAE\8EDF\6B63\9ED1\9AD4, \65B0\7D30\660E\9AD4, "Helvetica Neue", Helvetica, Arial, Serif, sans-serif;
+}
+li.timeline-inverted div.timeline-image h4 span {
+	font-size: 25px;
+	padding-top: 10px;
+}
+@media(max-width: 992px) {
+	li.timeline-inverted div.timeline-image h4 span{
+		font-size: 16px;
+	}
+}
